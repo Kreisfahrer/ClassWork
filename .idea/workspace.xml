@@ -2,65 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d19a4771-c0cc-462d-b5de-905c488b95fb" name="Default" comment="">
-      <change type="DELETED" beforePath="D:\ClassWork\.idea\.name" afterPath="" />
-      <change type="DELETED" beforePath="D:\ClassWork\.idea\compiler.xml" afterPath="" />
       <change type="DELETED" beforePath="D:\ClassWork\.idea\copyright\profiles_settings.xml" afterPath="" />
-      <change type="DELETED" beforePath="D:\ClassWork\.idea\encodings.xml" afterPath="" />
       <change type="DELETED" beforePath="D:\ClassWork\.idea\libraries\Maven__com_beust_jcommander_1_27.xml" afterPath="" />
       <change type="DELETED" beforePath="D:\ClassWork\.idea\libraries\Maven__junit_junit_4_10.xml" afterPath="" />
       <change type="DELETED" beforePath="D:\ClassWork\.idea\libraries\Maven__org_beanshell_bsh_2_0b4.xml" afterPath="" />
       <change type="DELETED" beforePath="D:\ClassWork\.idea\libraries\Maven__org_hamcrest_hamcrest_core_1_1.xml" afterPath="" />
       <change type="DELETED" beforePath="D:\ClassWork\.idea\libraries\Maven__org_testng_testng_6_8.xml" afterPath="" />
       <change type="DELETED" beforePath="D:\ClassWork\.idea\libraries\Maven__org_yaml_snakeyaml_1_6.xml" afterPath="" />
-      <change type="DELETED" beforePath="D:\ClassWork\.idea\misc.xml" afterPath="" />
-      <change type="DELETED" beforePath="D:\ClassWork\.idea\modules.xml" afterPath="" />
       <change type="DELETED" beforePath="D:\ClassWork\.idea\scopes\scope_settings.xml" afterPath="" />
       <change type="DELETED" beforePath="D:\ClassWork\.idea\uiDesigner.xml" afterPath="" />
-      <change type="DELETED" beforePath="D:\ClassWork\.idea\vcs.xml" afterPath="" />
       <change type="DELETED" beforePath="D:\ClassWork\.idea\workspace.xml" afterPath="" />
-      <change type="DELETED" beforePath="D:\ClassWork\ClassWork.iml" afterPath="" />
-      <change type="DELETED" beforePath="D:\ClassWork\target\MANIFEST.MF" afterPath="" />
-      <change type="DELETED" beforePath="D:\ClassWork\target\classes\objects\Calculator.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\ClassWork\target\classes\objects\PrimeNumberChecker.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\ClassWork\target\maven-status\maven-compiler-plugin\compile\default-compile\createdFiles.lst" afterPath="" />
-      <change type="DELETED" beforePath="D:\ClassWork\target\maven-status\maven-compiler-plugin\compile\default-compile\inputFiles.lst" afterPath="" />
-      <change type="DELETED" beforePath="D:\ClassWork\target\maven-status\maven-compiler-plugin\testCompile\default-testCompile\createdFiles.lst" afterPath="" />
-      <change type="DELETED" beforePath="D:\ClassWork\target\maven-status\maven-compiler-plugin\testCompile\default-testCompile\inputFiles.lst" afterPath="" />
-      <change type="DELETED" beforePath="D:\ClassWork\target\surefire-reports\CalculatorTest.txt" afterPath="" />
-      <change type="DELETED" beforePath="D:\ClassWork\target\surefire-reports\CalculatorTest\Command line test.html" afterPath="" />
-      <change type="DELETED" beforePath="D:\ClassWork\target\surefire-reports\CalculatorTest\Command line test.xml" afterPath="" />
-      <change type="DELETED" beforePath="D:\ClassWork\target\surefire-reports\CalculatorTest\testng-failed.xml" afterPath="" />
-      <change type="DELETED" beforePath="D:\ClassWork\target\surefire-reports\TEST-CalculatorTest.xml" afterPath="" />
-      <change type="DELETED" beforePath="D:\ClassWork\target\surefire-reports\bullet_point.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\ClassWork\target\surefire-reports\collapseall.gif" afterPath="" />
-      <change type="DELETED" beforePath="D:\ClassWork\target\surefire-reports\emailable-report.html" afterPath="" />
-      <change type="DELETED" beforePath="D:\ClassWork\target\surefire-reports\failed.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\ClassWork\target\surefire-reports\index.html" afterPath="" />
-      <change type="DELETED" beforePath="D:\ClassWork\target\surefire-reports\jquery-1.7.1.min.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\ClassWork\target\surefire-reports\junitreports\TEST-CalculatorTest.xml" afterPath="" />
-      <change type="DELETED" beforePath="D:\ClassWork\target\surefire-reports\navigator-bullet.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\ClassWork\target\surefire-reports\old\CalculatorTest\Command line test.properties" afterPath="" />
-      <change type="DELETED" beforePath="D:\ClassWork\target\surefire-reports\old\CalculatorTest\classes.html" afterPath="" />
-      <change type="DELETED" beforePath="D:\ClassWork\target\surefire-reports\old\CalculatorTest\groups.html" afterPath="" />
-      <change type="DELETED" beforePath="D:\ClassWork\target\surefire-reports\old\CalculatorTest\index.html" afterPath="" />
-      <change type="DELETED" beforePath="D:\ClassWork\target\surefire-reports\old\CalculatorTest\main.html" afterPath="" />
-      <change type="DELETED" beforePath="D:\ClassWork\target\surefire-reports\old\CalculatorTest\methods-alphabetical.html" afterPath="" />
-      <change type="DELETED" beforePath="D:\ClassWork\target\surefire-reports\old\CalculatorTest\methods-not-run.html" afterPath="" />
-      <change type="DELETED" beforePath="D:\ClassWork\target\surefire-reports\old\CalculatorTest\methods.html" afterPath="" />
-      <change type="DELETED" beforePath="D:\ClassWork\target\surefire-reports\old\CalculatorTest\reporter-output.html" afterPath="" />
-      <change type="DELETED" beforePath="D:\ClassWork\target\surefire-reports\old\CalculatorTest\testng.xml.html" afterPath="" />
-      <change type="DELETED" beforePath="D:\ClassWork\target\surefire-reports\old\CalculatorTest\toc.html" afterPath="" />
-      <change type="DELETED" beforePath="D:\ClassWork\target\surefire-reports\old\index.html" afterPath="" />
-      <change type="DELETED" beforePath="D:\ClassWork\target\surefire-reports\passed.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\ClassWork\target\surefire-reports\skipped.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\ClassWork\target\surefire-reports\testng-failed.xml" afterPath="" />
-      <change type="DELETED" beforePath="D:\ClassWork\target\surefire-reports\testng-reports.css" afterPath="" />
-      <change type="DELETED" beforePath="D:\ClassWork\target\surefire-reports\testng-reports.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\ClassWork\target\surefire-reports\testng-results.xml" afterPath="" />
-      <change type="DELETED" beforePath="D:\ClassWork\target\surefire-reports\testng.css" afterPath="" />
-      <change type="DELETED" beforePath="D:\ClassWork\target\test-classes\CalculatorTest.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\ClassWork\target\test-classes\DataProviders.class" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/java/new.java.txt" afterPath="$PROJECT_DIR$/src/test/java/new.java.txt" />
     </list>
     <ignored path="ClassWork.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -216,7 +167,6 @@
     </navigator>
     <panes>
       <pane id="PackagesPane" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -237,6 +187,7 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -546,16 +497,23 @@
       <option name="project" value="LOCAL" />
       <updated>1418408354164</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Cleanup">
+      <created>1418408639380</created>
+      <option name="number" value="00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1418408639380</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1040" height="744" extended-state="6" />
     <editor active="false" />
     <layout>
-      <window_info id="Changes" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3293718" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3293718" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -565,7 +523,7 @@
       <window_info id="IvyIDEA" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.27045768" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.30142567" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.30142567" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -574,7 +532,6 @@
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.39805827" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3293718" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -596,7 +553,8 @@
       <TodoPanelSettings />
     </option>
     <MESSAGE value="Message" />
-    <option name="LAST_COMMIT_MESSAGE" value="Message" />
+    <MESSAGE value="Cleanup" />
+    <option name="LAST_COMMIT_MESSAGE" value="Cleanup" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
