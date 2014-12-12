@@ -27,6 +27,7 @@ public class DataProviders {
             List<String> strings = new ArrayList<>();
             String line;
             while ((line = in.readLine()) != null) {
+		System.Out.println(line);
                 strings.add(line);
             }
             return strings;

@@ -16,9 +16,9 @@ public class CalculatorTest {
 
     @Parameters({"value1", "value2", "result"})
     @Test(description = "Test for summ func of Calculator")
-    public void summTest(@Optional("10") int value1, @Optional("5") int value2,
-                         @Optional("15") double result) {
-        Assert.assertEquals(result, calc.summ(value1, value2));
+    public void summTest(@Optional("5") int value1, @Optional("5") int value2,
+                         @Optional("10") double result) {
+        Assert.assertEquals(result, calc.summ(value1,value2));
     }
 
     @Test(dataProviderClass = DataProviders.class, dataProvider = "calcData")
